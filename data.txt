@@ -1,3 +1,0 @@
-Name : Tetsujin
-Age : 24
-Favorite Color: Blue 
