@@ -2,3 +2,5 @@ HELLO THIS IS A TEST FILE VESION 19-7-2019 17:18
 TEST OF 17:23
 
 I made a branch on master on the project git-practice, the branch is named repobranch
+
+>>>>>CHANGE MADE ON GITHUB WEB
